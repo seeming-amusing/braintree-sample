@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Braintree Sample</string>
+  <string name="restart">Restart process</string>
+  <string name="make_purchase">Make purchase</string>
+</resources>
